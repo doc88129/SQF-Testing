@@ -7,5 +7,6 @@ class Doc
 		class playerSpawn {};
 		class heal {};
 		class showGunShopDialog {};
+		class cubeLadder {};
 	};
 };
